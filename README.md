@@ -2,7 +2,7 @@
 
 **Director of AI and Research at [MacPaw](https://macpaw.com)** · Kyiv, Ukraine
 
-I lead AI and technological research at [MacPaw](https://macpaw.com), working at the intersection of engineering and science. I designed MacPaw's Technological R&D Center and now run it.
+I lead AI across [MacPaw](https://macpaw.com) and direct the company's Technological R&D Center, which I designed. My work sits at the intersection of engineering and science — turning research into product.
 
 #### Currently
 
